@@ -64,6 +64,7 @@ module repre_fila_inf (
                 1: if (count == 20) begin
                     en <= 0;
                     state <= 2;
+                    
                     count <= 0;
                 end else count <= count + 1;
 
