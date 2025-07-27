@@ -13,7 +13,6 @@
 <h1>Nombre del proyecto</h1>
 <h1>CALCULADORA QUANTIX</h1>
 <h1>Documentación</h1>
-
 <h2>Descripción de la arquitectura</h2>
 
 <h2>Implementación</h2>
